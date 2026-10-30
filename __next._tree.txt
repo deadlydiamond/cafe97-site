@@ -1,4 +1,4 @@
 :HL["/_next/static/chunks/0s7oty20a3kcf.css","style"]
 :HC["/",""]
 :HL["/brand/cafe97-logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"7xIpDGiMckBpwdoyiwd_z"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"KyOm17xzfoe9-h17A-q4d"}
