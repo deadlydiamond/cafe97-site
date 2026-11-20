@@ -35,3 +35,6 @@ Photos from Unsplash (https://unsplash.com/license): free for commercial use, no
 - hero-grill.jpg: hamid-roshaan, https://unsplash.com/photos/uIiMSu88RZQ
 - hero-karahi.jpg: rimsha-noor, https://unsplash.com/photos/HRamW92xlCI
 - broast.jpg: kevin (@0x00kevin), https://unsplash.com/photos/nwmZhwOSVnM
+- AI-generated for Café'97 (Higgsfield, GPT Image 2.6, 20 Nov 2026): soft-drinks, water, sting, shashlik, shashlik-rice, manchurian, fried-rice, egg-fried-rice, veggie-rice, seekh, reshmi, gola, turkish-kabab, bihari-boti, chullu, malai-boti, white-biryani, aloo-biryani, puri-paratha, chapati, club-sandwich, dips, raita, extras, cheese-fries, loaded-fries, pizza-fries, garlic-naan, til-naan, kulcha
+- AI-generated for Café'97 (Higgsfield, GPT Image 2.6, 20 Nov 2026, round 2; variants made from their base photo): tikka-leg, tikka-chest, bihari-boti, bihari-kabab, bbq-platter, zinger, zinger-cheese, double-decker, chicken-burger, chicken-cheese-burger, beef-burger, beef-cheese-burger, zinger-patty, zinger-strips, broast-*, sandwich-*, fries-small, fries-large, mayo-fries, mayo-garlic-fries, cheese-fries, loaded-fries, pizza-fries, roll-*, dip-*, slice-cheese, extra-bun, masala, disposable-glass, naan, combo-*, ff-platter
+- sting.jpg: AI-generated from a photo of the Sting bottle supplied by the owner
